@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokemonApp/static/css/main.ae0b1741.css",
+    "main.js": "/pokemonApp/static/js/main.0b460b4f.js",
+    "static/js/787.5480e000.chunk.js": "/pokemonApp/static/js/787.5480e000.chunk.js",
+    "index.html": "/pokemonApp/index.html",
+    "main.ae0b1741.css.map": "/pokemonApp/static/css/main.ae0b1741.css.map",
+    "main.0b460b4f.js.map": "/pokemonApp/static/js/main.0b460b4f.js.map",
+    "787.5480e000.chunk.js.map": "/pokemonApp/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0b1741.css",
+    "static/js/main.0b460b4f.js"
+  ]
+}
